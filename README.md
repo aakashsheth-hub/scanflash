@@ -40,7 +40,7 @@ ScanFlash is a fast, privacy-focused QR code scanner designed specifically for U
 
 Download the latest APK from the [Releases](../../releases) section.
 
-**Latest Version**: [ScanFlash-Release.apk](./ScanFlash-Release.apk)
+**Latest Version**: v1.0.0 - Available in [Releases](../../releases)
 
 ## 🔧 Technical Details
 
